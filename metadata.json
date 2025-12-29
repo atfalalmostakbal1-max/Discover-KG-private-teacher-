@@ -1,0 +1,7 @@
+{
+  "name": "Discover KG - Private Teacher",
+  "description": "An interactive AI-powered learning app for the Egyptian Discover curriculum (KG1 & KG2), supporting Arabic and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
